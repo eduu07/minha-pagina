@@ -1,0 +1,29 @@
+@charset "utf-8" ;
+
+body {
+    background-image: url('omelhor.jpg');
+}
+
+
+.titulo13{
+    text-align: center;
+    color: #ffffff;
+    padding: 0em 1,7em;
+    font-size: 18px;
+    border-bottom: 0,5em;
+    background: #ffffff;
+    border: 2px solid #ffffff;
+    transition: all .3s;
+    box-shadow: 6px 6px 12px #ffffff,-6px -6px 12px #ffffff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+
+
+    a:hover {
+        background-color: yellow;
+    }
+
+
+    .nav14{
+        
+    }
